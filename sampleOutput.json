@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CBC News",
+            "title": "China's Xi arrives for 1st visit in Russia since Ukraine invasion - CBC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3dvcmxkL3VrcmFpbmUtd2FyLXB1dGluLXhpLTEuNjc4NDI3NdIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS42Nzg0Mjc1?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T11:43:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": "Trisha Pathak",
+            "title": "Top 5 Theories of 'Black Hole' - WION",
+            "description": "We have compiled the most bizarre theories around Black Holes that'll blow your mind.",
+            "url": "https://www.wionews.com/web-stories/science/top-5-theories-of-black-hole--1679310345101",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T11:35:50Z",
+            "content": "In a recent study, researchers suggested that there may be a way out through the centre of the black hole. According to the theory, anything travelling through the black hole would stretch inside the… [+71 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Tribune India",
+            "title": "National Security Act slapped on Amritpal's five associates, Punjab police suspect 'ISI angle' - The Tribune India",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy50cmlidW5laW5kaWEuY29tL25ld3MvcHVuamFiL25zYS1zbGFwcGVkLW9uLWFtcml0cGFscy1maXZlLWFzc29jaWF0ZXMtc3VzcGljaXNpb24tb2YtcGFrcy1pc2ktaW52b2x2ZW1lbnQtaWctc3VraGNoYWluLWdpbGwtNDg5NzQy0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T11:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CTV News",
+            "title": "Credit Suisse, UBS shares plunge after takeover announcement - CTV News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmN0dm5ld3MuY2EvYnVzaW5lc3MvY3JlZGl0LXN1aXNzZS11YnMtc2hhcmVzLXBsdW5nZS1hZnRlci10YWtlb3Zlci1hbm5vdW5jZW1lbnQtMS42MzIwMjIw0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T10:52:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CTV News Montreal",
+            "title": "Man, 18, shot and killed in Anjou - CTV News Montreal",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS8xOC15ZWFyLW9sZC1raWxsZWQtaW4tbW9udHJlYWwtc2lkZXdhbGstc2hvb3RpbmctMS42MzIwMjE10gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T10:34:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "2 Minute Medicine",
+            "title": "2 Minute Medicine Rewind March 20, 2023 - 2 Minute Medicine",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LjJtaW51dGVtZWRpY2luZS5jb20vMi1taW51dGUtbWVkaWNpbmUtcmV3aW5kLW1hcmNoLTIwLTIwMjMv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T10:10:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Bruce Willis's wife speaks of her grief at his dementia on his 68th birthday - BBC",
+            "description": "Emma Heming Willis discusses the impact her husband's dementia is having on the family.",
+            "url": "https://www.bbc.com/news/entertainment-arts-65012888",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8E1F/production/_129038363_gettyimages-1185558591.jpg",
+            "publishedAt": "2023-03-20T10:00:21Z",
+            "content": "Emma Heming Willis, the wife of actor Bruce Willis, has spoken about the \"grief and sadness\" she feels over her husband's dementia, as they celebrated his 68th birthday.\r\n\"I have started the morning … [+3025 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Scientists Identify Intense Heatwaves At The Bottom Of Ocean - NDTV",
+            "description": "The scientists found that marine heatwaves can be more intense and last longer than hot spells at the ocean surface.",
+            "url": "https://www.ndtv.com/science/scientists-identify-intense-heatwaves-at-the-bottom-of-ocean-3876742",
+            "urlToImage": "https://c.ndtvimg.com/2021-06/qr8hr378_world-oceans-day-2021_625x300_07_June_21.jpg",
+            "publishedAt": "2023-03-20T09:54:26Z",
+            "content": "Underwater heatwave can have significant impacts on marine life. (Representational Pic)\r\nGlobal warming is causing temperature across the globe to rise. The rate has increased in the last decades, wi… [+2069 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CP24",
+            "title": "Trump's call for protests get muted reaction from supporters - CP24",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNwMjQuY29tL3dvcmxkL3RydW1wLXMtY2FsbC1mb3ItcHJvdGVzdHMtZ2V0LW11dGVkLXJlYWN0aW9uLWZyb20tc3VwcG9ydGVycy0xLjYzMjAxODPSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T09:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Globe and Mail",
+            "title": "Bank shares slide as Credit Suisse rescue fails to quell contagion fears - The Globe and Mail",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy50aGVnbG9iZWFuZG1haWwuY29tL2J1c2luZXNzL2ludGVybmF0aW9uYWwtYnVzaW5lc3MvYXJ0aWNsZS1pbnZlc3RvcnMtcHVuaXNoLXVicy1hZnRlci1jcmVkaXQtc3Vpc3NlLXJlc2N1ZS1zaGFyZXMtcGx1bW1ldC_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T09:47:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Toronto Star",
+            "title": "‘Scumbag’ Ontario employers to be slapped with hefty new fines for withholding workers’ passports, vows labour minister - Toronto Star",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2d0YS8yMDIzLzAzLzIwL3NjdW1iYWctb250YXJpby1lbXBsb3llcnMtdG8tYmUtc2xhcHBlZC13aXRoLWhlZnR5LW5ldy1maW5lcy1mb3Itd2l0aGhvbGRpbmctd29ya2Vycy1wYXNzcG9ydHMtdm93cy1sYWJvdXItbWluaXN0ZXIuaHRtbNIBqAFodHRwczovL3d3dy50aGVzdGFyLmNvbS9hbXAvbmV3cy9ndGEvMjAyMy8wMy8yMC9zY3VtYmFnLW9udGFyaW8tZW1wbG95ZXJzLXRvLWJlLXNsYXBwZWQtd2l0aC1oZWZ0eS1uZXctZmluZXMtZm9yLXdpdGhob2xkaW5nLXdvcmtlcnMtcGFzc3BvcnRzLXZvd3MtbGFib3VyLW1pbmlzdGVyLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T09:01:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The New Statesman",
+            "title": "Thomas Hertog's Q&A: “Stephen Hawking was the freest man I have known” - The New Statesman",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm5ld3N0YXRlc21hbi5jb20vY3VsdHVyZS9xYS8yMDIzLzAzL3Rob21hcy1oZXJ0b2ctc3RlcGhlbi1oYXdraW5nLWZyZWVzdC1tYW7SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T08:00:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Good e-Reader",
+            "title": "Mystery EINK PHONE | Unboxing ePaper EP.13 (+Contest) - Good e-Reader",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CCAiC2psel9KeDhyOTRJmAEB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T07:00:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Devdiscourse"
+            },
+            "author": "ANI",
+            "title": "Researchers find increase in cases of gestational diabetes associated with screening procedures - Devdiscourse",
+            "description": "There have been reports of an increase in cases of gestational diabetes, but a recent British Columbian study indicated that the majority of the surge can be attributed to improvements in screening procedures.",
+            "url": "https://www.devdiscourse.com/article/health/2386119-researchers-find-increase-in-cases-of-gestational-diabetes-associated-with-screening-procedures",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_03_2023_06_50_23_1440231.jpg?width=920&format=jpeg",
+            "publishedAt": "2023-03-20T06:50:25Z",
+            "content": "There have been reports of an increase in cases of gestational diabetes, but a recent British Columbian study indicated that the majority of the surge can be attributed to improvements in screening p… [+2381 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CMAJ",
+            "title": "A young woman with fever and polyserositis caused by familial Mediterranean fever - CMAJ",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LmNtYWouY2EvY29udGVudC8xOTUvMTEvRTQwNNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T05:11:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Sportsnet.ca",
+            "title": "Canucks Takeaways: Delia sharp, Hughes and Petterson stay hot vs. Ducks - Sportsnet.ca",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnNwb3J0c25ldC5jYS9uaGwvYXJ0aWNsZS9jYW51Y2tzLXRha2Vhd2F5cy1kZWxpYS1zaGFycC1odWdoZXMtYW5kLXBldHRlcnNvbi1zdGF5LWhvdC12cy1kdWNrcy_SAWlodHRwczovL3d3dy5zcG9ydHNuZXQuY2EvbmhsL2NhbnVja3MtdGFrZWF3YXlzLWRlbGlhLXNoYXJwLWh1Z2hlcy1hbmQtcGV0dGVyc29uLXN0YXktaG90LXZzLWR1Y2tzL3NuLWFtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T04:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Globe and Mail",
+            "title": "Your daily horoscope: March 20 - The Globe and Mail",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vbGlmZS9ob3Jvc2NvcGVzL2FydGljbGUtdG9kYXktaG9yb3Njb3BlLXNhbGx5LWJyb21wdG9uLW1hcmNoLTIwLTIwMjMv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T04:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Raptors Republic",
+            "title": "Quick Reaction: Raptors 111, Bucks 118 - Raptors Republic",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnJhcHRvcnNyZXB1YmxpYy5jb20vMjAyMy8wMy8xOS9xdWljay1yZWFjdGlvbi1yYXB0b3JzLTExMS1idWNrcy0xMTgv0gFUaHR0cHM6Ly93d3cucmFwdG9yc3JlcHVibGljLmNvbS8yMDIzLzAzLzE5L3F1aWNrLXJlYWN0aW9uLXJhcHRvcnMtMTExLWJ1Y2tzLTExOC9hbXAv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T02:36:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CTV News Montreal",
+            "title": "One dead, six remain missing as police search for victims of fire in Old Montreal - CTV News Montreal",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9vbmUtZGVhZC1zaXgtcmVtYWluLW1pc3NpbmctYXMtcG9saWNlLXNlYXJjaC1mb3ItdmljdGltcy1vZi1maXJlLWluLW9sZC1tb250cmVhbC0xLjYzMTk1ODDSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T02:01:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC",
+            "title": "Why did the US and allies invade Iraq, 20 years ago? - BBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC02NDk4MDU2NdIBK2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC02NDk4MDU2NS5hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T01:52:23Z",
+            "content": null
+        }
+    ]
+}
